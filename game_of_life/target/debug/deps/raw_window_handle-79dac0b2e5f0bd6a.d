@@ -1,0 +1,8 @@
+C:\Users\pius\Documents\magic\programming\privateHacking\game_of_life\target\debug\deps\raw_window_handle-79dac0b2e5f0bd6a.rmeta: C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\lib.rs C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\windows.rs
+
+C:\Users\pius\Documents\magic\programming\privateHacking\game_of_life\target\debug\deps\libraw_window_handle-79dac0b2e5f0bd6a.rlib: C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\lib.rs C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\windows.rs
+
+C:\Users\pius\Documents\magic\programming\privateHacking\game_of_life\target\debug\deps\raw_window_handle-79dac0b2e5f0bd6a.d: C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\lib.rs C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\windows.rs
+
+C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\lib.rs:
+C:\Users\pius\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raw-window-handle-0.3.4\src\windows.rs:
